@@ -288,6 +288,10 @@ img {
 
     }
 
+    .active {
+        color: #404BBF;
+    }
+
     .active::after {
         content: '';
         position: absolute;
